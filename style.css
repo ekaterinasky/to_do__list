@@ -1,0 +1,26 @@
+body, p, h1 {
+    margin: 0px;
+    padding: 0px;
+}
+.list {
+    margin: 0 auto; 
+    margin-top: 90px; 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+    border: 1px solid greenyellow; 
+    height: 150px;
+    width: 700px;
+}
+.task-container {
+    display: flex;
+    align-items: center;
+}
+.text-task {
+    font-size: 18px;
+    color: black;
+}
+.done-text {
+    color: rgba(0, 0, 0, 0.3);
+    text-decoration: line-through;
+}
