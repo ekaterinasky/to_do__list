@@ -24,3 +24,7 @@ body, p, h1 {
     color: rgba(0, 0, 0, 0.3);
     text-decoration: line-through;
 }
+.img_check {
+    width: 32px;
+    height: 32px;
+}
